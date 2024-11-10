@@ -8,7 +8,7 @@ Each domain has a dedicated folder containing its specific privacy policies and 
 The structure of this repository is as follows:
 
 ``` plaintext
-compliance-docs/
+compliance-policies/
 ├── README.md
 ├── LICENSE
 ├── beyonduc.com/
